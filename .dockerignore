@@ -1,0 +1,6 @@
+.dockerignore
+.gitignore
+*.md
+Dockerfile
+.git
+user_guide
